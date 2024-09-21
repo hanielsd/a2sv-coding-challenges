@@ -11,4 +11,5 @@ You can view more of my coding challenges and problem-solving activity on my [Le
 Feel free to connect with me:
 
 Email: [Email Me](mailto:hannelalex12@gmail.com)
+
 LinkedIn: [Halefom Alemu](https://www.linkedin.com/in/hanielsd)
