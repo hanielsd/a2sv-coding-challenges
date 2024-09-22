@@ -2,7 +2,7 @@
  * @param {string[]} operations
  * @return {number}
  */
-var calPoints = function (operations) {
+let calPoints = function (operations) {
   let record = [];
   let len = 0;
   for (let opn of operations) {

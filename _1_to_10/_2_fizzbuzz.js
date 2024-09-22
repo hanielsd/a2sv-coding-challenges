@@ -2,7 +2,7 @@
  * @param {number} n
  * @return {string[]}
  */
-var fizzBuzz = function (n) {
+let fizzBuzz = function (n) {
   let answer = new Array(n).fill();
   return answer.map((element, index) => {
     let i = index + 1;

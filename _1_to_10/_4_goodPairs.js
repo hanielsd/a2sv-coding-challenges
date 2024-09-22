@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
-var numIdenticalPairs = function (nums) {
+let numIdenticalPairs = function (nums) {
   let numsLength = nums.length;
   let totalGoodPairs = 0;
   for (let i = 0; i < numsLength - 1; i++) {

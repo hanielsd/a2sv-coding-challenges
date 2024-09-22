@@ -2,7 +2,7 @@
  * @param {number} n
  * @return {number}
  */
-var smallestEvenMultiple = function (n) {
+let smallestEvenMultiple = function (n) {
   if (n % 2 === 0) return n;
   return 2 * n;
 };

@@ -3,7 +3,7 @@
  * @param {string} t
  * @return {boolean}
  */
-var backspaceCompare = function (s, t) {
+let backspaceCompare = function (s, t) {
   let getFinal = function (input) {
     let bspIndex = input.indexOf("#");
     while (input.indexOf("#") !== -1) {
