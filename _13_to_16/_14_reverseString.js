@@ -2,7 +2,7 @@
  * @param {character[]} s
  * @return {void} Do not return anything, modify s in-place instead.
  */
-var reverseString = function (s) {
+let reverseString = function (s) {
   let lIndex = 0;
   let rIndex = s.length - 1;
   let temp = "";

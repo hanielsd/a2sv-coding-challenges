@@ -3,7 +3,7 @@
  * @param {string} word2
  * @return {string}
  */
-var mergeAlternately = function (word1, word2) {
+let mergeAlternately = function (word1, word2) {
   let maxLength = word1.length < word2.length ? word2.length : word1.length;
   let merged = "";
   for (let i = 0; i < maxLength; i++) {
