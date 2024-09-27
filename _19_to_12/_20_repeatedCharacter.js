@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {character}
  */
-var repeatedCharacter = function (s) {
+let repeatedCharacter = function (s) {
   let _1stRepeated = "";
   let index = s.length - 1;
   for (let i = 0; i < index; i++) {
