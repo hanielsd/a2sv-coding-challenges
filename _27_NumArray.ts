@@ -11,6 +11,6 @@ class NumArray {
 
 /**
  * Your NumArray object will be instantiated and called as such:
- * var obj = new NumArray(nums)
- * var param_1 = obj.sumRange(left,right)
+ * let obj = new NumArray(nums)
+ * let param_1 = obj.sumRange(left,right)
  */
